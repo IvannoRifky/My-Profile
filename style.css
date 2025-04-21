@@ -6,7 +6,7 @@
 }
   
 body {
-    background-color: slateblue;
+    background-color: #008080;
     font-family: 'Trebuchet MS', sans-serif;
     color: white;
     text-align: center;
@@ -84,7 +84,7 @@ p {
     justify-content: center;
     text-decoration: none;
     margin: 5px 0;
-    color: slateblue;
+    color: #008080;
     position: relative;
     overflow: hidden;
     cursor: pointer;
